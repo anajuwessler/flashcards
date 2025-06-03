@@ -18,3 +18,13 @@ footer p {
 
 }
 
+#container {
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: rgb(30, 4, 54);
+    height: 20rem;
+    flex-grow: 1;
+}
