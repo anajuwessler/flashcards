@@ -4,5 +4,15 @@ body{
 footer{
     background-color: black;
     color: rgb(249, 235, 255);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
     
 }
