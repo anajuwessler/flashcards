@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(185, 140, 226);  
+    background-color: rgb(234, 227, 241);  
     font-family: 'Times New Roman', Times, serif;
 }
 footer{
@@ -37,7 +37,7 @@ footer p {
 }
 
 .cartao_conteudo h3 {
-    background-color: rgb(236, 152, 225);
+    background-color: rgb(114, 11, 128);
     text-align: left;
     padding: 0.5rem;
     border-radius: 0.6;
