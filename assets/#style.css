@@ -1,6 +1,6 @@
 body{
     background-color: rgb(185, 140, 226);  
-    font-family: Bai Jamjuree;
+    font-family: 'Times New Roman', Times, serif;
 }
 footer{
     background-color: black;
@@ -17,3 +17,4 @@ footer p {
     margin-top: 0.5rem;
 
 }
+
