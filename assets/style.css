@@ -3,9 +3,8 @@
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
-```
 body{
-    background-color: url('bg-desktop.webp');  
+    background: url('img/bg-desktop.webp');  
     font-family: 'Times New Roman', Times, serif;
 }
 footer{
@@ -44,6 +43,7 @@ footer p {
 
 .cartao_conteudo h3 {
     background-color: rgb(247, 72, 139);
+    border: 1px solid var(--card-back-color);
     text-align: left;
     padding: 0.5rem;
     border-radius: 0.6;
