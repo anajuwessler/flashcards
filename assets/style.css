@@ -51,5 +51,11 @@ footer p {
 }
 
 .cartao_conteudo p {
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.cartao_conteudo_resposta p{
     color: var(--card-back-color);
+    font-weight: 700;
 }
