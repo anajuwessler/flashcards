@@ -49,3 +49,7 @@ footer p {
     border-radius: 0.6;
     font-size: 1vw;
 }
+
+.cartao_conteudo p {
+    color: var(--card-back-color);
+}
