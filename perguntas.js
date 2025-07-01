@@ -1,8 +1,8 @@
-criaCartao(
+function criaCartao(categoria, pergunta, resposta){
     'PROGRAMAÇÃO'
     'O que é JavaScript?'
     'O JavaScript é uma linguagem de programação.'
-)
+}
 
 criaCartao(
     'HISTÓRIA',
